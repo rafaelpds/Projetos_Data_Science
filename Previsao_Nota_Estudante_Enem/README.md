@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="Previsao_Nota_Estudante_Enem/enem.png">
-</p>
-
 ![Screenshot](enem.png)
+</p>
 
 # Predição das Notas dos Estudantes (ENEM) - 2016
 
