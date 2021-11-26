@@ -17,4 +17,4 @@ Foi criado um modelo para prever nota da prova de matemática (coluna NU_NOTA_MT
 ## Campo para Prever:
  **NU_NOTA_MT**
 
-Após No fim, foi gerado um arquivo com a resposta chamado answer.csv com duas colunas: NU_INSCRICAO e NU_NOTA_MT.
+Após as análises realizadas, foi gerado um arquivo com a resposta chamado answer.csv com duas colunas: NU_INSCRICAO e NU_NOTA_MT.
