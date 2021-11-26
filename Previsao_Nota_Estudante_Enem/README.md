@@ -2,6 +2,8 @@
   <img src="Previsao_Nota_Estudante_Enem/enem.png">
 </p>
 
+![Screenshot](enem.png)
+
 # Predição das Notas dos Estudantes (ENEM) - 2016
 
 O contexto do desafio gira em torno dos resultados do ENEM 2016. Muitas universidades brasileiras utilizam o ENEM para selecionar seus futuros alunos e alunas. Isto é feito com uma média ponderada das notas das provas de matemática, ciências da natureza, linguagens e códigos, ciências humanas e redação, com os pesos abaixo:
