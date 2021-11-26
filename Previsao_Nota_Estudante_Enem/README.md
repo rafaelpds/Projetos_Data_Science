@@ -1,6 +1,4 @@
-<p align="center">
 ![Screenshot](enem.png)
-</p>
 
 # Predição das Notas dos Estudantes (ENEM) - 2016
 
