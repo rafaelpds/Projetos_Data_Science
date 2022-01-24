@@ -14,3 +14,10 @@ Em parelelo estou atuando em um projeto com uma squad, a fim de simular um cená
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafaelpdsantos/)
 * [Medium](https://medium.com/@rafaelpdsantos)
+
+## Projetos pessoais:
+Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
+
+* **Machine Learning para prever se uma pessoa recebe mais de 50K (dólares) no ano:** https://bit.ly/39edTmM
+* **Extraindo insights da base de dados Black Friday através da Exploratory Data Analysis(EDA):** https://bit.ly/3aluIfz
+* **Machine Learning para prever as vendas para a Black Friday:** https://bit.ly/2uQIGHm
