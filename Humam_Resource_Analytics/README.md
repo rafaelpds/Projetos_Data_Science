@@ -3,8 +3,6 @@
 ### 📃 Descrição
 O objetivo do projeto é desenvolver uma **aplicação de Recursos Humanos (RH)**, que permita predizer se um **colaborador deixará a empresa**. O projeto engloba desde a **extração dos dados** até a implantação de um **WebApp**.
 
-O projeto foi elaborado pela **[Stack](https://stacktecnologias.com.br/)** no **bootcamp de Data Science** com algumas modificações minhas. Recomendo também o site **[Minerando Dados](https://minerandodados.com.br/)** de Data Science dos mesmos fundadores.
-
 <p align="center"><img src="images/stack_bootcamp_overview.jpg" width="700"></p>
 
 <p align="center">Imagem retirada do canal da <a href="https://www.youtube.com/c/Stack_tecnologias">Stack</a></p>
