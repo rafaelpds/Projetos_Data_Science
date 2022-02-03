@@ -222,3 +222,11 @@ As variáveis criadas devem ficar como:
 
 1. **Atenção**: Antes de executar as dags verifique se o ip do mysql ou do minio alterou.
 2. Para verificar use o comando: `docker container inspect mysqlbd1` e visualize o campo IP Address
+ 
+ # Deploy da Solução:
+ 
+ Com o objetivo de disponibilizar a solução, foi construido um WebApp utilizando o framework streamlit. Este pode ser visto abaixo:
+ 
+ <p align="center"><img src="imagens/deploy.jpg" width="800"></p>
+ 
+ Através desse projeto foi possível praticar e implementar conceitos importantes da Ciência e Engenharia de Dados e propor uma solução para um problema latente e recorrente de qualquer empresa que é a retenção de talentos através da Análise de Dados de Recursos Humanos.
