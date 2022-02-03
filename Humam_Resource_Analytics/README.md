@@ -54,23 +54,21 @@ O problema envolve o **setor de RH** de uma empresa, que deseja entender o que l
 
 1. Faça download do Visual Studio code: https://code.visualstudio.com/download
 
-## Crie um diretório na sua máquina para armazenar scripts e outros artefatos, exemplo:
-
-*C:\bootcampds*
+## Criação do diretório para armazenar scripts e outros artefatos:
 
 */home/<seunome>/bootcampds*
 
 ## **Instalação e Configuração do Mysql Server**
 
-Se estiver usando Windows abra o **Powershell** e digite:
-
 Crie o container do mysql habilitando a porta 3307:
 
+ Obs.: Foi utilizada a porta 3307, pois às vezes algum outro banco de dados pode estar utilizando a porta 3306.
+ 
 ```
 docker run --rm --name mysqlbd1 -e MYSQL_ROOT_PASSWORD=bootcamp -p "3307:3306" -d mysql
 ```
 
-Teste o acesso ao banco de dados usando o Visual Studio Code:
+Testando o acesso ao banco de dados usando o Visual Studio Code:
 
 Abra o Visual Studio Code e instale a extensão: **Database Client**
 
@@ -100,7 +98,7 @@ Se estiver usando Windows abra o terminal do Powershell e execute o comando:
 docker run -d -p 9000:9000 -p 9001:9001 -v "$PWD/datalake:/data" minio/minio server /data --console-address ":9001"
 ```
 
-Teste o acesso ao Minio:
+Testando o acesso ao Minio:
 
 Abra o browser e digite: http://localhost:9001/login
 
@@ -152,7 +150,7 @@ As variáveis criadas devem ficar como:
 
 
 
-# Aula 1 - Modelagem de Dados - 19/10/2021
+# Modelagem de Dados
 
 ## Configurando o Data Lake
 
