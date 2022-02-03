@@ -90,9 +90,7 @@ Coloque as configurações:
 
 ## **Instalação e Configuração do Data Lake com Minio Server**
 
-Dentro do diretório bootcampds crie o diretório **datalake**.
-
-Se estiver usando Windows abra o terminal do Powershell e execute o comando:
+Dentro do diretório bootcampds foi criado o diretório **datalake**.
 
 ```
 docker run -d -p 9000:9000 -p 9001:9001 -v "$PWD/datalake:/data" minio/minio server /data --console-address ":9001"
@@ -100,7 +98,7 @@ docker run -d -p 9000:9000 -p 9001:9001 -v "$PWD/datalake:/data" minio/minio ser
 
 Testando o acesso ao Minio:
 
-Abra o browser e digite: http://localhost:9001/login
+http://localhost:9001/login
 
 **username**: minioadmin
 
@@ -108,9 +106,9 @@ Abra o browser e digite: http://localhost:9001/login
 
 ## Instalação e Configuração do Airflow.
 
-1. Dentro do diretório bootcampds crie o diretório **airflow**.
+1. Dentro do diretório bootcampds foi criado o diretório **airflow**.
 
-2. Navegue até o diretório airflow e crie o diretório **dags**.
+2. Depois foi criada a pasta **dags**.
 
 3. Faça download da imagem e execute o container do Apache Airflow
 
@@ -154,11 +152,7 @@ As variáveis criadas devem ficar como:
 
 ## Configurando o Data Lake
 
-1. Acesse o link abaixo e faça download de todos os arquivos que usaremos nesta aula.
-
-   1. link:  https://bit.ly/arquivos-bootcamp
-
-2. Inicie o container do Minio com o comando:
+1. Inicie o container do Minio com o comando:
 
    1. Abra o **Docker Desktop** para iniciar o docker engine
 
