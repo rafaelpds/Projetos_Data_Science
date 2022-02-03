@@ -227,6 +227,6 @@ As variáveis criadas devem ficar como:
  
  Com o objetivo de disponibilizar a solução, foi construido um WebApp utilizando o framework streamlit. Este pode ser visto abaixo:
  
- <p align="center"><img src="imagens/deploy.jpg" width="800"></p>
+ <p align="center"><img src="imagens/deploy.png" width="800"></p>
  
  Através desse projeto foi possível praticar e implementar conceitos importantes da Ciência e Engenharia de Dados e propor uma solução para um problema latente e recorrente de qualquer empresa que é a retenção de talentos através da Análise de Dados de Recursos Humanos.
