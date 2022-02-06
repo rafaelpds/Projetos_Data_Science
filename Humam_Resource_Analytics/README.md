@@ -1,7 +1,7 @@
 # Human Resources Analytics - Prevendo Turnover
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ### 📃 Descrição
-O objetivo do projeto é desenvolver uma **aplicação de Recursos Humanos (RH)**, que permita predizer se um **colaborador deixará a empresa**. Neste projeto foram utilizadas diferentes tecnologias, passando desde a etapa de **extração dos dados**, até a criação de um **WebApp**, na figura abaixo é possível visualizar com mais detalhes a arquitetura do projeto:
+Este projeto foi realiazado durante um bootcamp e tem como objetivo o desenvolvimento de uma **aplicação de Recursos Humanos (RH)**, que permita predizer se um **colaborador deixará a empresa**. Neste projeto foram utilizadas diferentes tecnologias, passando desde a etapa de **extração dos dados**, até a criação de um **WebApp**, na figura abaixo é possível visualizar com mais detalhes a arquitetura do projeto:
 
 <p align="center"><img src="imagens/stack_bootcamp_overview.jpg" width="700"></p>
 
