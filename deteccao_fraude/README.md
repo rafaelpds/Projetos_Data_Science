@@ -1,4 +1,4 @@
-# Modelo Preditivo em dados: Detecção de Fraude
+# Modelo Preditivo em dados: Detecção de Fraude [WORKING-IN-PROGRESS]
 
  - Olá, neste projeto desenvolvi um modelo para identificar casos de fraude em uma loja de comércio eletrônico utilizando o Python como linguagem de programação. Para isso, foi utilizado o Jupyter Notebook. Abaixo seguem os passos executados no projeto:
  - 
