@@ -21,15 +21,16 @@ Uma das primeiras coisas que realizei foi identificar tais inconsistências, com
 
 #### Data Visualization [WORK IN PROGRESS]
 
+Criar visualizações, a partir da base gerada anteriormente.
 
 #### Forecasting [WORK IN PROGRESS]
 
 Criação de um modelo que irá prever quanto os senadores vão gastar nos próximos três meses.
 
-### Qual problema quero resolver com essa solução?
+## Qual problema quero resolver com essa solução?
 
 - Avaliar os gastos realizados pelos senadores entre 2019 a 2022, a fim de investigar se estes estão dentro dos limites estipulados.
 
-### Qual a solução proposta?
+## Qual a solução proposta?
 
 - Prever quanto os senadores irão gastar nos próximos 3 meses (Mai/2022 a Jul/2022).
