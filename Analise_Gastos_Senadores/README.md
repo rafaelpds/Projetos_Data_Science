@@ -19,11 +19,11 @@ Os dados do CEAPS contêm uma série de problemas que podem dificultar a criaç�
 
 Uma das primeiras coisas que realizei foi identificar tais inconsistências, como campos que possuem valores nulos ou duplicados, converter campos de data que estão sendo carregados como texto, correção de valores monetários, nomes incorretos, formatação de campos de CNPJ, etc.
 
-#### - Data Visualization [WORK IN PROGRESS]
+#### - Data Visualization
 
 Criar visualizações, a partir da base gerada anteriormente.
 
-#### - Forecasting [WORK IN PROGRESS]
+#### - Forecasting
 
 Criação de um modelo que irá prever quanto os senadores vão gastar nos próximos três meses.
 
